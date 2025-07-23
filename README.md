@@ -1,9 +1,6 @@
-## Hi! My name is Aibis Khan 👋
+## Hi! My name is Aibis Khan, I'm 17, and I live in NYC. I'm an upcoming college freshman majoring in psychology. I hope to learn the basics of and build a foundation for multiple coding languages, as well as to collaborate with my peers so that we can learn together :)
 
-- 🔭 I’m currently working on learning how to navigate GitHub.
-- 🌱 I’m currently learning the basics of code.
-- 🤔 I’m looking for help with learning tools/resources.
-- 💬 Ask me about psychology (soon to be psychology student!)
+
 - 📫 How to reach me: aibiskhan13@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have the cutest kitty in the world!
